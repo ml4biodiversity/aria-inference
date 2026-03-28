@@ -1,0 +1,91 @@
+{
+  "wild_birds": [
+    "Common Blackbird",
+    "House Sparrow",
+    "White Stork",
+    "Great Tit",
+    "Eurasian Chaffinch",
+    "Common Chiffchaff",
+    "Carrion Crow",
+    "Eurasian Jackdaw",
+    "Eurasian Magpie",
+    "Canada Goose",
+    "Rock Pigeon",
+    "Common Wood Pigeon",
+    "Eurasian Collared Dove",
+    "Eurasian Coot",
+    "Eurasian Moorhen",
+    "Common Swift"
+  ],
+  "aviaries": {
+    "aviary_1": {
+      "species": [
+        "African Spoonbill",
+        "Spotted Thick-knee",
+        "Eurasian Hoopoe",
+        "Red-crested Turaco",
+        "Gray Crowned-Crane",
+        "Speckled Pigeon",
+        "Red-billed Quelea",
+        "Violet-backed Starling"
+      ]
+    },
+    "aviary_2": {
+      "species": [
+        "Greater Flamingo",
+        "Hadada Ibis"
+      ]
+    },
+    "aviary_3": {
+      "species": [
+        "Black-headed Weaver",
+        "Eurasian Hoopoe",
+        "Red-billed Quelea"
+      ]
+    },
+    "aviary_4": {
+      "species": [
+        "Demoiselle Crane",
+        "Tufted Duck",
+        "Hadada Ibis",
+        "Cattle Egret",
+        "Abdim's Stork",
+        "Fulvous Whistling-Duck",
+        "Southern Bald Ibis",
+        "Eurasian Wigeon",
+        "Greater Flamingo",
+        "Knob-billed Duck",
+        "Hamerkop",
+        "Northern Shoveler"
+      ]
+    },
+    "aviary_5": {
+      "species": [
+        "Black Kite",
+        "Black Stork",
+        "Chiloe Wigeon",
+        "Goliath Heron",
+        "Greater Flamingo",
+        "Little Egret",
+        "Northern Bald Ibis",
+        "Pink-backed Pelican",
+        "Scarlet Ibis",
+        "Straw-necked Ibis"
+      ]
+    },
+    "aviary_6": {
+      "species": [
+        "Black Kite",
+        "Black Stork",
+        "Chiloe Wigeon",
+        "Goliath Heron",
+        "Greater Flamingo",
+        "Little Egret",
+        "Northern Bald Ibis",
+        "Pink-backed Pelican",
+        "Scarlet Ibis",
+        "Straw-necked Ibis"
+      ]
+    }
+  }
+}
