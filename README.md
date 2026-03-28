@@ -2,7 +2,7 @@
 
 Full ARIA inference package: **BirdNET + PERCH v2 + Fusion** for bird species detection in zoo aviaries.
 
-This is the complete baseline system for the [BioDCASE 2026 Challenge](https://biodcase.github.io/). For BirdNET-only inference, see [aria-inference-birdnet](https://pypi.org/project/aria-inference-birdnet/).
+This is the full detection system for the [BioDCASE 2026 Challenge](https://biodcase.github.io/). For BirdNET-only inference, see [aria-inference-birdnet](https://pypi.org/project/aria-inference-birdnet/).
 
 ## Installation
 
