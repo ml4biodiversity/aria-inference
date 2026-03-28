@@ -14,7 +14,7 @@ Quick start::
     )
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 from .ensemble import run_full_inference
 from .model_store import ensure_model_assets

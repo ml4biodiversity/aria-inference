@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "aria-inference"
-version = "0.1.0"
+version = "0.1.1"
 description = "Full ARIA inference: BirdNET + PERCH v2 + Fusion for bird species detection"
 readme = "README.md"
 requires-python = ">=3.11,<3.13"
